@@ -1,0 +1,55 @@
+h1 {
+  color: purple;
+}
+
+.sticky {
+  display: block;
+  background-color: blue;
+  width: 100vw;
+  height: 100px;
+  position: fixed;
+  bottom: 0;
+  padding: 10px;
+}
+
+.special {
+  border: 10px solid red;
+  display: block;
+  background-color: pink;
+  padding: 20px;
+}
+
+.start-link {
+  font-size: 2em;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.start-link::before {
+  content: "→";
+}
+
+.inline-start {
+  display: block;
+  border-left: 10px solid green;
+  margin-bottom: 20px;
+}
+
+.contents-list {
+  border-bottom: 1px solid grey;
+  margin-bottom: 30px;
+}
+
+.contents-list ol {
+  font-size: 16px;
+  font-family: sans-serif;
+  list-style-type: none;
+  list-style-position: outside;
+  list-style-image: none;
+  padding-left: 0;
+}
+
+.contents-list li::before {
+  content: "—";
+  margin-right: 5px;
+}
