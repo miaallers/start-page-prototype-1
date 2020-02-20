@@ -1,3 +1,7 @@
+.govuk-template__body {
+ font-family: "GDS Transport", Arial, sans-serif;
+}
+
 h1 {
   color: purple;
   @include govuk-font(24, $weight: bold);
@@ -50,7 +54,6 @@ h1 {
 
 .contents-list ol {
   font-size: 16px;
-  font-family: sans-serif;
   list-style-type: none;
   list-style-position: outside;
   list-style-image: none;
