@@ -1,8 +1,37 @@
-h1 {
-  color: purple;
-  @include govuk-font(24, $weight: bold);
+//// Typography /////
+
+p {
+  font-size: 19px;
+  color: $govuk-text-colour;
 }
 
+ul {
+  list-style: disc;
+  font-size: 19px;
+  color: $govuk-text-colour;
+  margin-left: 0;
+}
+
+
+.govuk-heading-xl {
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: $govuk-text-colour;
+  font-size: 24px;
+}
+
+h2 {
+  padding-top: 20px;
+  color: $govuk-text-colour;
+  font-size: 24px;
+}
+
+h3 {
+  color: $govuk-text-colour;
+  font-size: 19px;
+}
 
 
 .special {
@@ -13,13 +42,15 @@ h1 {
 }
 
 
-
+//// Language toggle ////
+.language-toggle {
+  font-size: 16px;
+  color: $govuk-secondary-text-colour;
+}
 
 
 
 //// Inline start button /////
-
-
 .inline-start {
   font-size: 2em;
   display: inline-block;
@@ -37,8 +68,11 @@ h1 {
 
 //// Contents list /////
 .contents-list {
+  color: $govuk-text-colour;
+  margin-top: 50px;
   border-bottom: 1px solid grey;
   margin-bottom: 30px;
+  padding-bottom: 30px;
 }
 
 .contents-list ol {
@@ -49,14 +83,35 @@ h1 {
   padding-left: 0;
 }
 
+.contents-list li {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.contents-list a {
+  color: $govuk-link-colour;
+}
+
+.contents-list a:active {
+  color: $govuk-text-colour;
+  text-decoration: none;
+}
+
+.contents-list li::before {
+  content: "—";
+  color: $govuk-text-colour;
+  margin-right: 5px;
+}
+
 
 //// Markdown /////
 .callout {
+  margin-top: 40px;
   font-size: 19px;
   display: block;
-  border-left: 10px solid grey;
+  border-left: 10px solid $govuk-border-colour;
   padding-left: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 //// Start button styled /////
@@ -97,4 +152,11 @@ h1 {
 
 .sticky-content-height {
   height: 100vh;
+}
+
+/// Inline start page ///
+.inline-start-page {
+  display: block;
+  border-left: 10px solid govuk-colour("green");
+  padding-left: 20px;
 }

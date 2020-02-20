@@ -1,14 +1,29 @@
-# This is a guide chapter
-This is a paragraph.
+# Apply for Marriage Allowance
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You’ll need:
 
-<div class="inline-start">
-<a href="/page.html">link text</a>
+- your [National Insurance number](/national-insurance/your-national-insurance-number) and your partner's
+
+- a way to prove your identity
+
+<div class="callout>
+
+If you have come to the UK and you do not plan to work or study, you cannot get a National Insurance number. Phone the [Income Tax helpline](/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees#marriage-allowance) to apply for Marriage Allowance.
 </div>
 
-<div class="callout">
-This is some callout text. You can use it anywhere, just don't forget to include it in the div
-</div>
+You can prove your identity with one of the following:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- the last 4 digits of the account that your child benefit, tax credits or pension is paid into
+
+- the last 4 digits of an account that pays you interest
+
+- details from your [P60](/paye-forms-p45-p60-p11d/p60)
+
+- details from any of your 3 most recent payslips
+
+- your passport number and expiry date
+
+
+<div class="start-button-styled">
+<a href="/page.html">Apply now</a>
+</div>

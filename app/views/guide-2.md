@@ -1,14 +1,29 @@
-# This is a guide chapter
-This is a paragraph.
+# Who can apply
+You can apply for Marriage Allowance if all the following apply:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- you’re married or in a civil partnership
 
-<div class="inline-start">
-<a href="/page.html">link text</a>
-</div>
+- you do not pay Income Tax or your income is below your Personal Allowance (usually £12,500)
+
+- your partner pays Income Tax at the [basic rate](/income-tax-rates), which usually means their income is between £12,501 and £50,000 before they receive Marriage Allowance
 
 <div class="callout">
-This is some callout text. You can use it anywhere, just don't forget to include it in the div
+
+If you're in Scotland, your partner must pay the starter, basic or intermediate rate, which usually means their income is between £12,501 and £43,430.
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Your application for Marriage Allowance will not be affected if you or your partner:
+
+- are currently receiving a pension
+
+- live abroad - as long as you get a [Personal Allowance](/tax-uk-income-live-abroad/personal-allowance)
+
+## Who cannot apply
+
+You cannot claim Marriage Allowance if:
+
+- you're living together, but you're not married or in a civil partnership
+
+- you already get Married Couple’s Allowance
+
+If you or your partner were born before 6 April 1935, you might benefit more as a couple by applying for [Married Couple’s Allowance](/married-couples-allowance) instead.
