@@ -33,11 +33,13 @@ h3 {
   font-size: 19px;
 }
 
-
 .special {
-  border: 10px solid red;
+  /* border: 10px solid govuk-colour("green"); */
+  border-top: 6px solid govuk-colour("blue");
+  border-left: 15px solid govuk-colour("blue");
+  border-right: 15px solid govuk-colour("blue");
+  border-bottom: 15px solid govuk-colour("blue");
   display: block;
-  background-color: pink;
   padding: 20px;
 }
 
@@ -48,8 +50,6 @@ h3 {
   color: $govuk-secondary-text-colour;
   margin-bottom: 50px;
 }
-
-
 
 //// Inline start button /////
 .inline-start {
@@ -92,11 +92,6 @@ h3 {
   color: $govuk-link-colour;
 }
 
-.contents-list a:active {
-  color: $govuk-text-colour;
-  text-decoration: none;
-}
-
 .contents-list li::before {
   content: "—";
   color: $govuk-text-colour;
@@ -130,18 +125,23 @@ h3 {
 .start-button-styled a{
   font-size: 19px;
   display: inline-block;
-  background-color: govuk-colour("green");
-  padding: 15px;
+  height: 37px;
+  background-color: pink);
+  /* padding: 15px; */
 
   margin-bottom: 20px;
 }
 
 .start-button-styled::before {
+  /* content: url(/public/images/arrow-1.png);
+  display: inline-block; */
   content: "";
-  background-image: url(/public/images/arrow-1.png);
   display: block;
-  font-size: 14px;
-  color: pink;
+  background: url("/public/images/arrow-1.svg") no-repeat;
+  width: 37px;
+  height: 37px;
+  float: left;
+  margin-bottom: 0px;
 }
 
 
@@ -181,4 +181,10 @@ h3 {
   display: block;
   border-left: 10px solid govuk-colour("green");
   padding-left: 20px;
+}
+
+/// Related links ///
+.app-related-items {
+    border-top: 2px solid #1d70b8;
+    padding-top: 0px;
 }

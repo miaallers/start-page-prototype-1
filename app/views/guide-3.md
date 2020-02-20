@@ -25,8 +25,5 @@ You can prove your identity with one of the following:
 
 
 <div class="start-button-styled">
-<div class="arrow">
-  <img  src="/public/images/arrow-1.png" alt="User icon" height="30" width="30" >
-</div>
 <a href="/page.html">Apply now</a>
 </div>
