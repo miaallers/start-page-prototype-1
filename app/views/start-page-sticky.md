@@ -21,8 +21,6 @@ You’ll need a reference number from one of the following:
 
 You’ll also need your debit or credit card. You can pay by Direct Debit or in full.
 
-## Tax your vehicle online
-
 You cannot use the online service if you [use your vehicle for work](/vehicles-you-use-for-work).
 
 ## Other ways to tax your vehicle
