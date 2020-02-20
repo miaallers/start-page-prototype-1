@@ -37,6 +37,6 @@ If your partner was the lower earner, the person responsible for managing their 
 
 ## How your partner will receive your Personal Allowance
 
-Your Personal Allowance will transfer automatically to your partner every year until one of you [cancels Marriage Allowance](/guide-4.html") or [your circumstances change](/guide-4.html").
+Your Personal Allowance will transfer automatically to your partner every year until one of you [cancels Marriage Allowance](/marriage-allowance/if-your-circumstances-change) or [your circumstances change](/marriage-allowance/if-your-circumstances-change).
 
 *[HMRC]: HM Revenue and Customs
