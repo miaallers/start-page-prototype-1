@@ -121,15 +121,17 @@ h3 {
 
 //// Start button styled /////
 
+.start-button-styled {
+  display: block;
+  height: 37px;
+  background-color: pink);
+  padding-top: 15px;
+}
 
 .start-button-styled a{
   font-size: 19px;
-  display: inline-block;
-  height: 37px;
-  background-color: pink);
-  /* padding: 15px; */
 
-  margin-bottom: 20px;
+
 }
 
 .start-button-styled::before {
