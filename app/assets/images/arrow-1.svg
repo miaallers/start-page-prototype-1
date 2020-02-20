@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
     <title>Group</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Mobile-home-A-Copy-17" transform="translate(-37.000000, -647.000000)">
             <g id="Group" transform="translate(37.000000, 647.000000)">
-                <rect id="Rectangle" fill="#417505" x="0" y="0" width="37" height="37"></rect>
-                <path d="M19,29 L29,18.9135412 L19.1714354,9 M27.5,19 L5.5,19.5" id="Combined-Shape" stroke="#FFFFFF" stroke-width="3"></path>
+                <rect id="Rectangle" fill="#00703C" x="0" y="0" width="44" height="44"></rect>
+                <path d="M23.1351351,32.6216216 L33.9459459,21.7173418 L23.3204707,11 M32.3243243,21.8108108 L8.54054054,22.3513514" id="Combined-Shape" stroke="#FFFFFF" stroke-width="3"></path>
             </g>
         </g>
     </g>

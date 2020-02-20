@@ -16,10 +16,10 @@
         <a class="govuk-breadcrumbs__link" href="https://www.gov.uk">Home</a>
       </li>
       <li class="govuk-breadcrumbs__list-item">
-        <a class="govuk-breadcrumbs__link" href="#">Hello</a>
+        <a class="govuk-breadcrumbs__link" href="https://www.gov.uk/browse/tax">Money and tax</a>
       </li>
       <li class="govuk-breadcrumbs__list-item">
-        <a class="govuk-breadcrumbs__link">Subsection</a>
+        <a class="govuk-breadcrumbs__link" href="https://www.gov.uk/browse/tax/income-tax">Income tax</a>
       </li>
     </ol>
   </div>
@@ -47,11 +47,17 @@
     </ol>
     </div>
 
-    {% markdown "guide-1.md" %}
+      {% markdown "guide-1.md" %}
 
 
+<!-- Pagination -->
+    <div class="pagination">
+      <ul>
+        <li> <span>Next</span><a href="/guide-2.html">Who can apply</a></li>
+    </div>
 </div>
 
+<!-- Related links -->
   <div class="govuk-grid-column-one-third">
     <aside class="app-related-items" role="complementary">
       <h2 class="govuk-heading-m" id="subsection-title">
@@ -74,5 +80,5 @@
     </aside>
 
   </div>
-</div>
+
 {% endblock %}

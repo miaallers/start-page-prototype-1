@@ -25,5 +25,5 @@ You can prove your identity with one of the following:
 
 
 <div class="start-button-styled">
-<a href="/page.html">Apply now</a>
+<a href="https://www.tax.service.gov.uk/marriage-allowance-application/eligibility-check?_ga=2.143264309.1803272299.1582142860-51964711.1578320771">Apply now</a>
 </div>

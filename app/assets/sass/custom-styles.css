@@ -3,13 +3,15 @@
 p {
   font-size: 19px;
   color: $govuk-text-colour;
+  margin-bottom: 15px;
 }
 
-ul {
+ul  {
   list-style: disc;
   font-size: 19px;
   color: $govuk-text-colour;
-  margin-left: 0;
+  /* margin-left: -20px; */
+  margin-bottom: 40px;
 }
 
 
@@ -29,6 +31,7 @@ h2 {
 }
 
 h3 {
+  padding-top: 20px;
   color: $govuk-text-colour;
   font-size: 19px;
 }
@@ -52,7 +55,7 @@ h3 {
 }
 
 //// Inline start button /////
-.inline-start {
+/* .inline-start {
   font-size: 2em;
   display: inline-block;
   border-left: 10px solid green;
@@ -65,12 +68,12 @@ h3 {
   display: inline-block;
   font-size: 14px;
   color: pink;
-}
+} */
 
 //// Contents list /////
 .contents-list {
   color: $govuk-text-colour;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid $govuk-border-colour;
   margin-bottom: 30px;
   padding-bottom: 30px;
 }
@@ -122,28 +125,31 @@ h3 {
 //// Start button styled /////
 
 .start-button-styled {
+  margin-top: 40px;
   display: block;
-  height: 37px;
-  background-color: pink);
-  padding-top: 15px;
+  height: 44px;
+  /* border: 1px solid black; */
+  position: relative;
 }
 
 .start-button-styled a{
   font-size: 19px;
-
-
+  font-weight: bold;
+  position: absolute;
+  bottom: 10px;
+  left: 55px
 }
 
 .start-button-styled::before {
-  /* content: url(/public/images/arrow-1.png);
-  display: inline-block; */
   content: "";
   display: block;
   background: url("/public/images/arrow-1.svg") no-repeat;
-  width: 37px;
-  height: 37px;
+  width: 44px;
+  height: 44px;
   float: left;
   margin-bottom: 0px;
+  position: absolute;
+  bottom: 0;
 }
 
 
@@ -158,7 +164,7 @@ h3 {
   width: 100%;
   z-index: 99;
   position: fixed;
-  bottom: 0;
+  bottom: 25px;
 }
 
 .sticky a {
@@ -169,13 +175,17 @@ h3 {
   position: fixed;
   bottom: 0;
   display: block;
-  height: 100px;
+  height: 80px;
   width: 100%;
   background-color: govuk-colour("green");
+  /* background-color: pink; */
+  /* border-bottom: 2px solid white; */
+  /* padding-bottom: 10px; */
 }
 
 .sticky-content-height {
-  min-height: 100vh;
+  display: block;
+  padding-bottom: 80px;
 }
 
 /// Inline start page ///
@@ -190,3 +200,34 @@ h3 {
     border-top: 2px solid #1d70b8;
     padding-top: 0px;
 }
+
+.app-related-items {
+  padding-bottom: 100px;
+}
+
+/// Pagination ///
+.pagination {
+  display: block;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.pagination li {
+  margin-left: -40px;
+  list-style: none;
+  display: block;
+  padding-bottom: 40px;
+}
+
+.pagination span {
+  border-top: 1px solid $govuk-border-colour;
+  padding-top: 10px;
+  font-size: 19px;
+  font-weight: bold;
+  display: block;
+}
+
+/* /// Content area for markdown ///
+.content-markdown {
+  padding-bottom: 50px;
+} */

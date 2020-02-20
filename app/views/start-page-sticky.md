@@ -31,10 +31,13 @@ You cannot use the online service if you [use your vehicle for work](/vehicles-y
 
 Call DVLA vehicle tax service to tax your vehicle over the phone
 
+<div class="callout-reverse">
+
 **DVLA vehicle tax service**  
 Telephone: 0300 123 4321  
 24-hour service  
 [Find out about call charges](/call-charges)   
+</div>
 
 You cannot pay by Direct Debit over the phone.
 
