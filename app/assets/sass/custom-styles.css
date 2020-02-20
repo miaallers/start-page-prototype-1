@@ -1,84 +1,233 @@
-h1 {
-  color: purple;
-  @include govuk-font(24, $weight: bold);
+//// Typography /////
+
+p {
+  font-size: 19px;
+  color: $govuk-text-colour;
+  margin-bottom: 15px;
 }
 
-.start-button-sticky {
-  color: white;
+ul  {
+  list-style: disc;
+  font-size: 19px;
+  color: $govuk-text-colour;
+  /* margin-left: -20px; */
+  margin-bottom: 40px;
+}
+
+
+.govuk-heading-xl {
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: $govuk-text-colour;
   font-size: 24px;
-  display: block;
-  background-color: blue;
-  width: 100vw;
-  height: 50px;
-  position: fixed;
-  bottom: 0;
-  padding: 10px;
-  margin-top: 100px;
+}
+
+h2 {
+  padding-top: 20px;
+  color: $govuk-text-colour;
+  font-size: 24px;
+}
+
+h3 {
+  padding-top: 20px;
+  color: $govuk-text-colour;
+  font-size: 19px;
 }
 
 .special {
-  border: 10px solid red;
+  /* border: 10px solid govuk-colour("green"); */
+  border-top: 6px solid govuk-colour("blue");
+  border-left: 15px solid govuk-colour("blue");
+  border-right: 15px solid govuk-colour("blue");
+  border-bottom: 15px solid govuk-colour("blue");
   display: block;
-  background-color: pink;
   padding: 20px;
 }
 
 
-.inline-start a::before {
-  content: "→";
+//// Language toggle ////
+.language-toggle {
+  font-size: 16px;
+  color: $govuk-secondary-text-colour;
+  margin-bottom: 50px;
 }
 
-.inline-start {
+//// Inline start button /////
+/* .inline-start {
   font-size: 2em;
-  display: block;
+  display: inline-block;
   border-left: 10px solid green;
   margin-bottom: 20px;
   padding-left: 20px;
 }
 
 .inline-start::before {
-  content: "Inline start pattern";
-  display: block;
+  content: "→";
+  display: inline-block;
   font-size: 14px;
-  color: grey;
-}
+  color: pink;
+} */
 
+//// Contents list /////
 .contents-list {
-  border-bottom: 1px solid grey;
+  color: $govuk-text-colour;
+  border-bottom: 1px solid $govuk-border-colour;
   margin-bottom: 30px;
+  padding-bottom: 30px;
 }
 
 .contents-list ol {
   font-size: 16px;
-  font-family: sans-serif;
   list-style-type: none;
   list-style-position: outside;
   list-style-image: none;
   padding-left: 0;
 }
 
+.contents-list li {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.contents-list a {
+  color: $govuk-link-colour;
+}
+
 .contents-list li::before {
   content: "—";
+  color: $govuk-text-colour;
   margin-right: 5px;
 }
 
+
+//// Markdown /////
 .callout {
+  margin-top: 40px;
   font-size: 19px;
   display: block;
-  border-left: 10px solid grey;
+  border-left: 10px solid $govuk-border-colour;
   padding-left: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
+.callout-reverse {
+  z-index: 99;
+  margin-top: 40px;
+  font-size: 19px;
+  display: block;
+  border-left: 1px solid govuk-colour("mid-grey");
+  padding-left: 20px;
+  margin-bottom: 40px;
+}
+
+//// Start button styled /////
+
 .start-button-styled {
-  font-size: 24px;
-  color: green;
-  margin-bottom: 20px;
+  margin-top: 40px;
+  display: block;
+  height: 44px;
+  /* border: 1px solid black; */
+  position: relative;
+}
+
+.start-button-styled a{
+  font-size: 19px;
+  font-weight: bold;
+  position: absolute;
+  bottom: 10px;
+  left: 55px
 }
 
 .start-button-styled::before {
-  content: "Styled start button";
+  content: "";
   display: block;
-  font-size: 14px;
-  color: grey;
+  background: url("/public/images/arrow-1.svg") no-repeat;
+  width: 44px;
+  height: 44px;
+  float: left;
+  margin-bottom: 0px;
+  position: absolute;
+  bottom: 0;
+}
+
+
+.arrow {
+  display: inline;
+}
+
+//// Sticky /////
+.sticky {
+  display: block;
+  height: 80px;
+  width: 100%;
+  z-index: 99;
+  position: fixed;
+  bottom: 25px;
+}
+
+.sticky a {
+  color: white;
+}
+
+.panel {
+  position: fixed;
+  bottom: 0;
+  display: block;
+  height: 80px;
+  width: 100%;
+  background-color: govuk-colour("green");
+  /* background-color: pink; */
+  /* border-bottom: 2px solid white; */
+  /* padding-bottom: 10px; */
+}
+
+.sticky-content-height {
+  display: block;
+  padding-bottom: 80px;
+}
+
+/// Inline start page ///
+.inline-start-page {
+  display: block;
+  border-left: 10px solid govuk-colour("green");
+  padding-left: 20px;
+}
+
+/// Related links ///
+.app-related-items {
+    border-top: 2px solid #1d70b8;
+    padding-top: 0px;
+}
+
+.app-related-items {
+  padding-bottom: 100px;
+}
+
+/// Pagination ///
+.pagination {
+  display: block;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.pagination li {
+  margin-left: -40px;
+  list-style: none;
+  display: block;
+  padding-bottom: 40px;
+}
+
+.pagination span {
+  border-top: 1px solid $govuk-border-colour;
+  padding-top: 10px;
+  font-size: 19px;
+  font-weight: bold;
+  display: block;
+}
+
+/// Content area for markdown ///
+.content-markdown {
+  padding-bottom: 50px;
 }

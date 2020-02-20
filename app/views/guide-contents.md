@@ -1,5 +1,8 @@
-<li> Contents list item 1</li>
-<li> Contents list item 2</li>
-<li> Contents list item 3</li>
-<li> Contents list item 4</li>
-<li> Contents list item 5</li>
+<div class="contents-list">
+<ol>
+<li> <a href="/guide-1.html">How it works</a> </li>
+<li> <a href="/guide-2.html">Who can apply</a></li>
+<li> <a href="/guide-3.html">Apply for Marriage Allowance</a></li>
+<li> <a href="/guide-4.html">If your circumstances change</a></li>
+</ol>
+</div>

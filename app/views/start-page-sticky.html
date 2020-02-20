@@ -1,0 +1,85 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+  Tax your vehicle
+{% endblock %}
+
+{% block header %}
+  <!-- Blank header with no service name for the start page -->
+  {{ govukHeader() }}
+{% endblock %}
+
+
+{% block beforeContent %}
+  <div class="govuk-breadcrumbs">
+    <ol class="govuk-breadcrumbs__list">
+      <li class="govuk-breadcrumbs__list-item">
+        <a class="govuk-breadcrumbs__link" href="https://www.gov.uk">Home</a>
+      </li>
+      <li class="govuk-breadcrumbs__list-item">
+        <a class="govuk-breadcrumbs__link" href="https://www.gov.uk/browse/driving">Driving and transport</a>
+      </li>
+      <li class="govuk-breadcrumbs__list-item">
+        <a class="govuk-breadcrumbs__link" href="https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance">Vehicle tax, MOT and insurance</a>
+      </li>
+    </ol>
+  </div>
+{% endblock %}
+
+{% block content %}
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      <h1 class="govuk-heading-xl">
+        Tax your vehicle
+      </h1>
+      <div class="language-toggle">
+        English | <a href="https://www.gov.uk">Welsh</a>
+      </div>
+
+        <div class="sticky-content-height">
+          {% markdown "start-page-sticky.md" %}
+        </div>
+    </div>
+
+    <div class="govuk-grid-column-one-third">
+      <aside class="app-related-items" role="complementary">
+        <h2 class="govuk-heading-m" id="subsection-title">
+          Related links
+        </h2>
+        <nav role="navigation" aria-labelledby="subsection-title">
+          <ul class="govuk-list govuk-!-font-size-16">
+            <li>
+              <a href="https://www.gov.uk/check-vehicle-tax">
+                Check if your vehicle is taxed</a>
+            </li>
+            <li>
+              <a href="https://www.gov.uk/calculate-vehicle-tax-rates">
+                Calculate vehicle taxes</a>
+            </li>
+            <li>
+              <a href="https://www.gov.uk/vehicle-tax-direct-debit">
+                Set up a Direct Debit</a>
+            </li>
+            <li>
+              <a href="https://www.gov.uk/car-tax-disc-without-v11-reminder">
+                If you do not have a V11 reminder</a>
+            </li>
+            <li>
+              <a href="https://www.gov.uk/vehicle-tax-refund">
+                Cancel your tax and get a refund</a>
+            </li>
+          </ul>
+        </nav>
+      </aside>
+    </div>
+  </div>
+
+<div class="sticky">
+  {% markdown "start-page-sticky-button.md" %}
+</div>
+{% endblock %}
+
+
+{% block footer %}
+<div class="panel"></div>
+{% endblock %}
