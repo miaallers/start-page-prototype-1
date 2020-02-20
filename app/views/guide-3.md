@@ -6,7 +6,7 @@ You’ll need:
 
 - a way to prove your identity
 
-<div class="callout>
+<div class="callout-reverse">
 
 If you have come to the UK and you do not plan to work or study, you cannot get a National Insurance number. Phone the [Income Tax helpline](/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees#marriage-allowance) to apply for Marriage Allowance.
 </div>
@@ -25,5 +25,8 @@ You can prove your identity with one of the following:
 
 
 <div class="start-button-styled">
+<div class="arrow">
+  <img  src="/public/images/arrow-1.png" alt="User icon" height="30" width="30" >
+</div>
 <a href="/page.html">Apply now</a>
 </div>
