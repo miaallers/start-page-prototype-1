@@ -1,24 +1,9 @@
-.govuk-template__body {
- font-family: "GDS Transport", Arial, sans-serif;
-}
-
 h1 {
   color: purple;
   @include govuk-font(24, $weight: bold);
 }
 
-.start-button-sticky {
-  color: white;
-  font-size: 24px;
-  display: block;
-  background-color: blue;
-  width: 100vw;
-  height: 50px;
-  position: fixed;
-  bottom: 0;
-  padding: 10px;
-  margin-top: 100px;
-}
+
 
 .special {
   border: 10px solid red;
@@ -28,25 +13,29 @@ h1 {
 }
 
 
-.inline-start a::before {
-  content: "→";
-}
+
+
+
+
+//// Inline start button /////
+
 
 .inline-start {
   font-size: 2em;
-  display: block;
+  display: inline-block;
   border-left: 10px solid green;
   margin-bottom: 20px;
   padding-left: 20px;
 }
 
 .inline-start::before {
-  content: "Inline start pattern";
-  display: block;
+  content: "→";
+  display: inline-block;
   font-size: 14px;
-  color: grey;
+  color: pink;
 }
 
+//// Contents list /////
 .contents-list {
   border-bottom: 1px solid grey;
   margin-bottom: 30px;
@@ -60,11 +49,8 @@ h1 {
   padding-left: 0;
 }
 
-.contents-list li::before {
-  content: "—";
-  margin-right: 5px;
-}
 
+//// Markdown /////
 .callout {
   font-size: 19px;
   display: block;
@@ -73,15 +59,42 @@ h1 {
   margin-bottom: 20px;
 }
 
-.start-button-styled {
-  font-size: 24px;
-  color: green;
+//// Start button styled /////
+
+
+.start-button-styled a{
+  font-size: 2em;
+  display: inline-block;
   margin-bottom: 20px;
 }
 
 .start-button-styled::before {
-  content: "Styled start button";
-  display: block;
+  content: "→";
+  display: inline-block;
   font-size: 14px;
-  color: grey;
+  color: pink;
+}
+
+//// Sticky /////
+.sticky {
+  display: block;
+  height: 80px;
+  width: 100%;
+  color: white;
+  z-index: 99;
+  position: fixed;
+  bottom: 0;
+}
+
+.panel {
+  position: fixed;
+  bottom: 0;
+  display: block;
+  height: 100px;
+  width: 100%;
+  background-color: grey;
+}
+
+.sticky-content-height {
+  height: 100vh;
 }

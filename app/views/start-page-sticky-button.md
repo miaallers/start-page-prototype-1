@@ -1,3 +1,3 @@
-<div class="start-button-sticky">
-Place start button text here
+<div class="start-button-styled">
+<a href="/page.html">Start now</a>
 </div>
