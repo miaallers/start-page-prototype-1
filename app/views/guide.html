@@ -37,21 +37,14 @@
 
       <div class="contents-list">
         <ol>
-          <li>This is a contents list</li>
-          <li>This is a contents list item</li>
+          {% markdown "guide-contents.md" %}
+        </ol>
       </div>
 
-{% markdown "guide.md" %}
-
-
-    </div>
+      {% markdown "guide.md" %}
   </div>
 
-
-<! –– Side nav ––>
-
     <div class="govuk-grid-column-one-third">
-
       <aside class="app-related-items" role="complementary">
         <h2 class="govuk-heading-m" id="subsection-title">
           Subsection

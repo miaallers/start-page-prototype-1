@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div class="inline-start">
   <div class="start-link">
       <a href="#">
-        Start now
+        <img src="/public/images/separator.png" alt="User icon">Start now
       </a>
   </div>
 </div>
