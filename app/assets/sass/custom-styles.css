@@ -20,22 +20,25 @@ h1 {
   padding: 20px;
 }
 
-.start-link {
-  font-size: 2em;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
 
-.start-link::before {
+.inline-start a::before {
   content: "→";
 }
 
 .inline-start {
+  font-size: 2em;
   display: block;
   border-left: 10px solid green;
   margin-bottom: 20px;
+  padding-left: 20px;
 }
 
+.inline-start::before {
+  content: "Inline start pattern";
+  display: block;
+  font-size: 14px;
+  color: grey;
+}
 .contents-list {
   border-bottom: 1px solid grey;
   margin-bottom: 30px;
