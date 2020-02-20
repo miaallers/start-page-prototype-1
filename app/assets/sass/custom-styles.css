@@ -57,3 +57,11 @@ h1 {
   content: "—";
   margin-right: 5px;
 }
+
+.callout {
+  font-size: 19px;
+  display: block;
+  border-left: 10px solid grey;
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
