@@ -10,11 +10,11 @@ You can [cancel the allowance online](https://www.tax.service.gov.uk/marriage-al
 
 If you’re currently transferring your allowance to your partner the change will be backdated to the start of the tax year (6 April).
 
-This might mean your partner underpays their tax for the year. HMRC will tell them how much they owe and usually [collect the tax automatically](/tax-overpayments-and-underpayments/if-you-owe-tax).
+This might mean your partner underpays their tax for the year. HMRC will tell them how much they owe and usually [collect the tax automatically](https://www.gov.uk/tax-overpayments-and-underpayments/if-you-owe-tax).
 
 ## If your income changes
 
-[Contact HMRC](/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees) if your income changes. They’ll tell you if:
+[Contact HMRC](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees) if your income changes. They’ll tell you if:
 
 - claiming Marriage Allowance will still benefit you as a couple
 

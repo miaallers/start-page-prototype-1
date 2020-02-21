@@ -5,7 +5,7 @@ You can apply for Marriage Allowance if all the following apply:
 
 - you do not pay Income Tax or your income is below your Personal Allowance (usually £12,500)
 
-- your partner pays Income Tax at the [basic rate](/income-tax-rates), which usually means their income is between £12,501 and £50,000 before they receive Marriage Allowance
+- your partner pays Income Tax at the [basic rate](https://www.gov.uk/income-tax-rates), which usually means their income is between £12,501 and £50,000 before they receive Marriage Allowance
 
 <div class="callout">
 
@@ -16,7 +16,7 @@ Your application for Marriage Allowance will not be affected if you or your part
 
 - are currently receiving a pension
 
-- live abroad - as long as you get a [Personal Allowance](/tax-uk-income-live-abroad/personal-allowance)
+- live abroad - as long as you get a [Personal Allowance](https://www.gov.uk/tax-uk-income-live-abroad/personal-allowance)
 
 ## Who cannot apply
 
@@ -26,4 +26,4 @@ You cannot claim Marriage Allowance if:
 
 - you already get Married Couple’s Allowance
 
-If you or your partner were born before 6 April 1935, you might benefit more as a couple by applying for [Married Couple’s Allowance](/married-couples-allowance) instead.
+If you or your partner were born before 6 April 1935, you might benefit more as a couple by applying for [Married Couple’s Allowance](https://www.gov.uk/married-couples-allowance) instead.
