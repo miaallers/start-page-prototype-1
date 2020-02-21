@@ -2,13 +2,13 @@
 
 You’ll need:
 
-- your [National Insurance number](/national-insurance/your-national-insurance-number) and your partner's
+- your [National Insurance number](https://www.gov.uk/national-insurance/your-national-insurance-number) and your partner's
 
 - a way to prove your identity
 
 <div class="callout-reverse">
 
-If you have come to the UK and you do not plan to work or study, you cannot get a National Insurance number. Phone the [Income Tax helpline](/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees#marriage-allowance) to apply for Marriage Allowance.
+If you have come to the UK and you do not plan to work or study, you cannot get a National Insurance number. Phone the [Income Tax helpline](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees#marriage-allowance) to apply for Marriage Allowance.
 </div>
 
 You can prove your identity with one of the following:
@@ -17,7 +17,7 @@ You can prove your identity with one of the following:
 
 - the last 4 digits of an account that pays you interest
 
-- details from your [P60](/paye-forms-p45-p60-p11d/p60)
+- details from your [P60](https://www.gov.uk/paye-forms-p45-p60-p11d/p60)
 
 - details from any of your 3 most recent payslips
 

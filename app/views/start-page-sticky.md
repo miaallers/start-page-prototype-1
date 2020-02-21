@@ -1,13 +1,13 @@
-Tax your car, motorcycle or other vehicle so you can [drive legally](/legal-obligations-drivers-riders).
+Tax your car, motorcycle or other vehicle so you can [drive legally](https://www.gov.uk/legal-obligations-drivers-riders).
 
-You must tax your vehicle even if you do not have to pay anything, for example if [you're exempt](/vehicle-exempt-from-vehicle-tax) because you have a disability.
+You must tax your vehicle even if you do not have to pay anything, for example if [you're exempt](https://www.gov.uk/vehicle-exempt-from-vehicle-tax) because you have a disability.
 
 <div class="callout">
 
-If you’re disabled or your car has been used by a disabled person, you may need to [change your vehicle's tax class](/change-vehicle-tax-class/tax-due-to-run-out-or-changing-if-vehicle-is-exempt).
+If you’re disabled or your car has been used by a disabled person, you may need to [change your vehicle's tax class](https://www.gov.uk/change-vehicle-tax-class/tax-due-to-run-out-or-changing-if-vehicle-is-exempt).
 </div>
 
-You do not need to tax your vehicle if it's [registered as off the road (SORN)](/make-a-sorn).
+You do not need to tax your vehicle if it's [registered as off the road (SORN)](https://www.gov.uk/make-a-sorn).
 
 ## What you’ll need
 
@@ -21,7 +21,7 @@ You’ll need a reference number from one of the following:
 
 You’ll also need your debit or credit card. You can pay by Direct Debit or in full.
 
-You cannot use the online service if you [use your vehicle for work](/vehicles-you-use-for-work).
+You cannot use the online service if you [use your vehicle for work](https://www.gov.uk/vehicles-you-use-for-work).
 
 ## Other ways to tax your vehicle
 
@@ -34,7 +34,7 @@ Call DVLA vehicle tax service to tax your vehicle over the phone
 **DVLA vehicle tax service**  
 Telephone: 0300 123 4321  
 24-hour service  
-[Find out about call charges](/call-charges)   
+[Find out about call charges](https://www.gov.uk/call-charges)   
 </div>
 
 You cannot pay by Direct Debit over the phone.
@@ -45,11 +45,11 @@ Go to a [Post Office](http://www.postoffice.co.uk/branch-finder) that deals with
 
 You need to take either:
 
-- the [payment for your vehicle tax](/vehicle-tax-rate-tables)
+- the [payment for your vehicle tax](https://www.gov.uk/vehicle-tax-rate-tables)
 
 - your bank or building society account details to set up a Direct Debit
 
-You will not need these payment details if your [vehicle is exempt from tax](/vehicle-exempt-from-vehicle-tax).
+You will not need these payment details if your [vehicle is exempt from tax](https://www.gov.uk/vehicle-exempt-from-vehicle-tax).
 
 You also need to take one of the following:
 
@@ -59,7 +59,7 @@ You also need to take one of the following:
 
 <div class="callout">
 
-If you do not have any of these documents, you’ll need to [apply for a new log book](/vehicle-log-book).
+If you do not have any of these documents, you’ll need to [apply for a new log book](https://www.gov.uk//vehicle-log-book).
 </div>
 
 You might also need your MOT test certificate (it must be valid when the tax starts).

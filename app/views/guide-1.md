@@ -1,11 +1,11 @@
 # How it works
-Marriage Allowance lets you transfer £1,250 of your [Personal Allowance](/income-tax-rates) to your husband, wife or civil partner.
+Marriage Allowance lets you transfer £1,250 of your [Personal Allowance](https://www.gov.uk/income-tax-rates) to your husband, wife or civil partner.
 
 This reduces their tax by up to £250 in the tax year (6 April to 5 April the next year).
 
 To benefit as a couple, you (as the lower earner) must normally have an income below your Personal Allowance - this is usually £12,500. You can [calculate how much tax you could save as a couple](https://www.tax.service.gov.uk/marriage-allowance-application/benefit-calculator/).
 
-If you receive other income, such as dividends, savings or benefits from your job, you should call the [Income Tax helpline](/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees#marriage-allowance) instead.
+If you receive other income, such as dividends, savings or benefits from your job, you should call the [Income Tax helpline](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees#marriage-allowance) instead.
 
 You can also call the helpline if you do not know what your taxable income is.
 
@@ -31,12 +31,12 @@ Your partner's tax bill will be reduced depending on the Personal Allowance rate
 
 ## If your partner has died since 5 April 2015
 
-You can still claim. Phone the [Income Tax helpline](/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees#marriage-allowance).
+You can still claim. Phone the [Income Tax helpline](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees#marriage-allowance).
 
 If your partner was the lower earner, the person responsible for managing their tax affairs needs to phone.
 
 ## How your partner will receive your Personal Allowance
 
-Your Personal Allowance will transfer automatically to your partner every year until one of you [cancels Marriage Allowance](/marriage-allowance/if-your-circumstances-change) or [your circumstances change](/marriage-allowance/if-your-circumstances-change).
+Your Personal Allowance will transfer automatically to your partner every year until one of you [cancels Marriage Allowance](https://www.gov.uk/marriage-allowance/if-your-circumstances-change) or [your circumstances change](https://www.gov.uk/marriage-allowance/if-your-circumstances-change).
 
 *[HMRC]: HM Revenue and Customs
