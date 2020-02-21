@@ -231,3 +231,8 @@ h3 {
 .content-markdown {
   padding-bottom: 50px;
 }
+
+/// index page ///
+.index  li {
+  margin-bottom: 10px;
+}
